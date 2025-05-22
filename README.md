@@ -52,22 +52,7 @@ EduCase is a modern authentication application built with React, TypeScript, and
    You should see the EduCase application running.
 
 
-## Folder Structure
-educase/
-├── public/              # Static assets
-├── src/
-│   ├── assets/          # Images and other assets
-│   ├── components/      # Reusable UI components
-│   ├── lib/             # Utility functions and helpers
-│   ├── pages/           # Application pages
-│   ├── [App.tsx](http://_vscodecontentref_/1)          # Main application component
-│   ├── [index.css](http://_vscodecontentref_/2)        # Global styles
-│   └── [main.tsx](http://_vscodecontentref_/3)         # Application entry point
-├── [package.json](http://_vscodecontentref_/4)         # Project dependencies and scripts
-├── [tsconfig.json](http://_vscodecontentref_/5)        # TypeScript configuration
-└── [vite.config.ts](http://_vscodecontentref_/6)       # Vite configuration
-```
-
+<pre lang="md"> ```plaintext educase/ ├── public/ # Static assets ├── src/ │ ├── assets/ # Images and other assets │ ├── components/ # Reusable UI components │ ├── lib/ # Utility functions and helpers │ ├── pages/ # Application pages │ ├── App.tsx # Main application component │ ├── index.css # Global styles │ └── main.tsx # Application entry point ├── package.json # Project dependencies and scripts ├── tsconfig.json # TypeScript configuration └── vite.config.ts # Vite configuration ``` </pre>
 ## Available Scripts
 
 - `npm run dev` - Start the development server
